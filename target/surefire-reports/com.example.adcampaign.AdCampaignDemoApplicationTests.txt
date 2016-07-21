@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.adcampaign.AdCampaignDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.583 sec - in com.example.adcampaign.AdCampaignDemoApplicationTests

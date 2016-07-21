@@ -1,0 +1,3 @@
+com\example\adcampaign\AdCampaignDemoApplication.class
+com\example\adcampaign\controller\AdCampaignController.class
+com\example\adcampaign\domain\CampaignBean.class
